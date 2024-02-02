@@ -1,0 +1,27 @@
+repositories:
+  ddg_bringup:
+    type: git
+    url: https://github.com/DockDockGo/ddg_bringup.git
+    version: a2410680fd3cb7ae93e090ee2e59bda39f4ca517
+  ddg_multi_robot_planner:
+    type: git
+    url: https://github.com/DockDockGo/ddg_multi_robot_planner.git
+    version: 8431f338dd74f0ba7b2a98feb33e84b2f752e7e6
+  robot_misson_control:
+    type: git
+    url: https://github.com/DockDockGo/robot_misson_control.git
+    version: 997b4e88943c72dc442e2b1fcbe36616753cf628
+  offboard_comms:
+    type: git
+    url: https://github.com/DockDockGo/offboard_comms.git
+    version: eba10dc054fa6255cd5d535a2ae021f9cbf9e1ff
+  robot_action_interfaces:
+    type: git
+    url: https://github.com/DockDockGo/robot_action_interfaces.git
+    version: eba10dc054fa6255cd5d535a2ae021f9cbf9e1ff
+  ddg_multi_robot_srvs:
+    type: git
+    url: https://github.com/DockDockGo/ddg_multi_robot_srvs.git
+    version: 6e0e0a6c5bb7d8d8fcdddc1e24c13e428f072006
+
+

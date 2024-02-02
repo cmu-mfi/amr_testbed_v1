@@ -1,0 +1,29 @@
+repositories:
+  ddg_waypoint_follower:
+    type: git
+    url: https://github.com/DockDockGo/ddg_waypoint_follower.git
+    version: 84d36f013693573e9b96272d8fb069e1d7edfcbf
+  robot_motion_server:
+    type: git
+    url: https://github.com/DockDockGo/robot_motion_server.git
+    version: 0cadf5658aee67f84d47ad439cc58fc048d2f4b1
+  robot_state_machine:
+    type: git
+    url: https://github.com/DockDockGo/robot_state_machine.git
+    version: 85d7e3d549347603d3a8ecae5ac513e557cd8dc8
+  robot_action_interfaces:
+    type: git
+    url: https://github.com/DockDockGo/robot_action_interfaces.git
+    version: eba10dc054fa6255cd5d535a2ae021f9cbf9e1ff
+  ddg_multi_robot_srvs:
+    type: git
+    url: https://github.com/DockDockGo/ddg_multi_robot_srvs.git
+    version: 6e0e0a6c5bb7d8d8fcdddc1e24c13e428f072006
+  ddg_multi_robot_srvs:
+    type: git
+    url: https://github.com/DockDockGo/ddg_multi_robot_srvs.git
+    version: eba10dc054fa6255cd5d535a2ae021f9cbf9e1ff
+  neo_simulation2:
+    type: git
+    url: https://github.com/DockDockGo/neo_simulation2.git
+    version: 9a3348d806cf666d7d71e662d600c115a4f374af
