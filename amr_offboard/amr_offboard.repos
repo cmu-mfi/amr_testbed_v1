@@ -14,7 +14,7 @@ repositories:
   offboard_comms:
     type: git
     url: https://github.com/DockDockGo/offboard_comms.git
-    version: eba10dc054fa6255cd5d535a2ae021f9cbf9e1ff
+    version: e0a60f49765d84d2dac353e22fda0ffda8cab3d8 
   robot_action_interfaces:
     type: git
     url: https://github.com/DockDockGo/robot_action_interfaces.git

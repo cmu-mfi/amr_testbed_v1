@@ -1,0 +1,13 @@
+repositories:
+  amr_testbed_demo_integration_server:
+    type: git
+    url: https://github.com/shobhitagg/amr_testbed_demo_integration_server.git
+    version: a73151b05d7d8a66ebe8091208afab08a15dfccb 
+  amr_fleet_offboard_infra_frontend:
+    type: git
+    url: https://github.com/DockDockGo/amr_fleet_offboard_infra_frontend.git
+    version: 0873c36e0f7c3668016ea0057e1ea880c4f52a74 
+  amr_fleet_offboard_infra_backend:
+    type: git
+    url: https://github.com/DockDockGo/amr_fleet_offboard_infra_backend.git
+    version: 7c8f60025f872505f5c113d54ea54053de99dc04 
